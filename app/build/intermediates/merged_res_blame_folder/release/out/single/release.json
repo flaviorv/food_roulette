@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_plus_one_24.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\drawable\\ic_baseline_plus_one_24.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\layout_activity_add.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\font_roboto.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_roleta.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\layout\\fragment_roleta.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\layout_activity_inicio.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\drawable_tela_inicial_app.png.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\drawable\\tela_inicial_app.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\layout_food_item_recyclerview.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\layout\\food_item_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_informacoes.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\layout\\fragment_informacoes.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\layout_activity_agenda.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\layout\\activity_agenda.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_logoincial.png.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-mdpi\\logoincial.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\AndroidStudioProjects\\Food Roulette\\Food Roulette\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

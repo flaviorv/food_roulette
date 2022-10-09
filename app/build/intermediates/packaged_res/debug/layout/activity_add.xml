@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D3D3C0"
+    tools:context="com.example.food.activities.AddActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center_horizontal"
+            android:text="Clique no quadrado abaixo para adicionar a foto do food." />
+
+        <ImageView
+            android:id="@+id/imgUpload"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:background="#B3B597" />
+
+        <EditText
+            android:id="@+id/edtFood"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:hint="Nome do Food:"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/edtEstabelecimento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:ems="10"
+            android:hint="Estabelecimento:"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/edtContato"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:ems="10"
+            android:hint="Telefone de Contato:"
+            android:inputType="phone" />
+
+
+        <EditText
+            android:id="@+id/edtInformacoes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:ems="10"
+            android:hint="Informação:"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/salvar_button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="40dp"
+            android:text="Salvar Food"
+            android:backgroundTint="#735240"/>
+
+
+    </LinearLayout>
+</ScrollView>
